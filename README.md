@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Elfueros.
+- 👋 Hi, I’m @TheOwl.
 - 👀 I’m interested in AI and its application to healthcare management.
 - 👀 I’m also interested in linguistics and translations especially translations between French and English
 - 🌱 I’m currently following the ALX Software Engineering program  at Holberton school.
